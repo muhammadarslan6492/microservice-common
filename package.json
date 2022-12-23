@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "del-cli": "^4.0.0"
   },
   "devDependencies": {
